@@ -16,7 +16,11 @@ Use the latest [Magisk](https://magiskmanager.com/) manager
 ## How to use?
  - flash the latest released .zip with magisk
  - reboot and profit*
- - `goto>settings>display>refreshrate>click autofps` or simply enable autofps from tiles.
+ - simply enable Auto Refresh rate from notification tiles.
+
+## Disclaimer
+ - you are now limited to 60 to 90 hz range no 120hz option form notification tiles thanks to   <abbr title="Ass sas u sas">ASUS</abbr>.
+ - to enable 120hz mode `goto>settings>display>refreshrate>click 120hz` 
 
 
 ## Thank You🍉
