@@ -20,6 +20,7 @@ Atleast get some feedbackkkk sus!!!!!!!
 Use the latest [Magisk](https://magiskmanager.com/) manager
 
 ## How to use?
+ - be on the latest *stock firmware A11
  - flash the latest released .zip with magisk
  - reboot and profit*
  - simply enable Auto Refresh rate from notification tiles.
