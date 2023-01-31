@@ -27,6 +27,6 @@ Use the latest [Magisk](https://magiskmanager.com/) manager
 ## Disclaimer
  - Theres is no 120hz option form notification tiles thanks to ASUSSSSSSSSSSS!
  - to enable 120hz mode `goto>settings>display>refreshrate>click 120hz` 
- <img src="https://github.com/Nayemhasan/Auto-Refresh-Rate-enabler-for-Asus-Rog2/blob/main/pics/3.png"
+ <td><img src="https://github.com/Nayemhasan/Auto-Refresh-Rate-enabler-for-Asus-Rog2/blob/main/pics/3.png"</td>
 
 ## Thank You🍉
