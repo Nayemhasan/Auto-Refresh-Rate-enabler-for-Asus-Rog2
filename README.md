@@ -2,7 +2,7 @@
 This module Enables the Auto Refresh Rate(range = 60hz to 90hz) options for Asus Rog Phone 2 by editing build.prop. like newer Rog 3/5/6, because Asus don't like their fav middle child rog 2.🤦‍♂️
 
 ## So what does it do?
-This module enables Auto Refresh Rate mode for system ui depending on usecase lowers to 60hz and higher to 90hz to give overall system smoothness and in the name of reducing battery drain from constant 120/90hz refresh rate being displayed. Asus tend to hide broke things and never wants to made them public even if they works or not.
+This module enables Auto Refresh Rate mode for system ui depending on usecase(when watching 60hz contents like watching youtube videos or ticktok or videocalling) lowers to 60hz and higher to 90hz to give overall system smoothness and in the name of reducing battery drain from constant 120/90hz refresh rate being displayed. Asus tend to hide broke things and never wants to made them public even if they works or not.
 Atleast get some feedbackkkk sus!!!!!!!
 
 ## What does this module change?
